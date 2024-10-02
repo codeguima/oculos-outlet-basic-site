@@ -1,1 +1,1 @@
-Site bem básico realizado com o "Curso em Video" para aprendizagem das ferramentas de web.
+Site básico realizado com o "Curso em Video" para aprendizagem das ferramentas básicas de web.
